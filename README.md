@@ -16,7 +16,7 @@ L'app è semplice da usare, accessibile da più dispositivi, e migliora l'effici
 ## Tagline
 "Gestisci il tuo centro estetico con un tocco"
 
-##Problemi che risolve
+## Problemi che risolve
 BeautyApp risolve diversi problemi per i centri estetici: elimina le sovrapposizioni negli appuntamenti e riduce i no-show grazie a promemoria automatici. Facilita la gestione delle preferenze e delle cronologie dei clienti, migliorando il servizio personalizzato. Inoltre, genera report sulle attività, permettendo una pianificazione efficace e un'analisi delle performance. Infine, semplifica il lavoro amministrativo e aumenta l'efficienza operativa, rendendo la gestione quotidiana più fluida e organizzata.
 
 
