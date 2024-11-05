@@ -21,7 +21,7 @@ BeautyApp risolve diversi problemi per i centri estetici: elimina le sovrapposiz
 
 
 ## UML
-!(uml)[https://yuml.me/6e3424e2.svg]
+![uml](https://yuml.me/6e3424e2.svg)
 
 ## Funzionalità Principali
 - **Gestione Appuntamenti**: crea, modifica e cancella appuntamenti, con visualizzazione del calendario (mensile, settimanale e giornaliera).
