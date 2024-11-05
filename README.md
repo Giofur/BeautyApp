@@ -20,6 +20,9 @@ L'app è semplice da usare, accessibile da più dispositivi, e migliora l'effici
 BeautyApp risolve diversi problemi per i centri estetici: elimina le sovrapposizioni negli appuntamenti e riduce i no-show grazie a promemoria automatici. Facilita la gestione delle preferenze e delle cronologie dei clienti, migliorando il servizio personalizzato. Inoltre, genera report sulle attività, permettendo una pianificazione efficace e un'analisi delle performance. Infine, semplifica il lavoro amministrativo e aumenta l'efficienza operativa, rendendo la gestione quotidiana più fluida e organizzata.
 
 
+## UML
+[UML](uml.pdf)
+
 ## Funzionalità Principali
 - **Gestione Appuntamenti**: crea, modifica e cancella appuntamenti, con visualizzazione del calendario (mensile, settimanale e giornaliera).
 - **Promemoria e Notifiche**: invio automatico di promemoria ai clienti tramite SMS o email.
